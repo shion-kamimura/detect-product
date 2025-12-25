@@ -1,0 +1,10 @@
+torch
+transformers
+sentencepiece
+protobuf
+pillow
+numpy
+matplotlib
+opencv-python
+easyocr
+pyzbar

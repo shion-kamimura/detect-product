@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+venv/
+
+input/
+
+output/
+
+models/
+
+*.log
+
+.DS_Store
+
